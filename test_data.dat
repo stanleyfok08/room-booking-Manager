@@ -1,0 +1,8 @@
+bookDevice -tenant_C 2021-05-11 13:00 4.0 projector_4K;
+addConference -tenant_D 2021-05-12 17:00 4.0 15 webcam_UHD;
+addConference -tenant_E 2021-05-16 14:00 2.0 15 webcam_UHD monitor_75;
+addPresentation -tenant_B 2021-05-14 08:00 3.0 12 projector_4K screen_150;
+addMeeting -tenant_A 2021-05-16 10:00 3.0 9 projector_2K screen_100;
+addMeeting -tenant_C 2021-05-16 10:00 3.0 9 projector_2K screen_100;
+addMeeting -tenant_D 2021-05-16 11:00 1.0 9 projector_2K screen_100;
+addPresentation -tenant_A 2021-05-13 09:00 3.0 8 projector_2K projector_2K;
