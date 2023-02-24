@@ -1,6 +1,6 @@
 # Room Booking Manager (RBM)
 
-This is a COMP subject group project
+This is a COMP C programming subject group project
 
 code compiled underGCC4.8 in Ubuntu 20.04
 
